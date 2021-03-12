@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Venture On Photo</title>
+    <title>Tam</title>
 
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
@@ -17,19 +17,18 @@
       crossorigin="anonymous"
     ></script>
 
+  
+
     <script src="https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.js"></script>
     <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
     <style>
-  <style>
-   
-    
       .grid-sizer,
       .grid-item {
         width: 30%;
       }
 
       .grid-item {
-       margin-bottom: 10px;
+        margin-bottom: 10px;
       }
 
       .grid-item img {
@@ -43,34 +42,11 @@
         display: block;
         clear: both;
       }
-
-.contactheader {
-        margin-bottom: 30px;
-margin-top: 30px;
-text-align:center;
-      }
-.center {
-  margin-left: 30px;
-}
-
-
-
-</style>
+    </style>
   </head>
   <body>
-<div class="contactheader">
-<img src="images/logo.png" style="width:130px;" /><br>
-<i>live free and venture on</i><br><br>
-<h2><p style="font-family:'Courier New'"><b>National Photo & Film</b></p></h2>
-<a href="tel:9499290767">(949) 929-0767</a>
- - tomwynnn@gmail.com
-</div>
-
-<center><iframe width="360"  src="https://www.youtube.com/embed/OMdrhjFNMFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div class="center">
-    
-      <div class="grid-sizer">
-</div>
+    <div class="grid">
+      <div class="grid-sizer"></div>
       <div class="grid-item">
         <img src="images/1.jpg" />
       </div>
@@ -84,7 +60,7 @@ text-align:center;
         <img src="images/4.jpg" />
       </div>
       <div class="grid-item">
-        <img src="images/12.jpg" />
+        <img src="images/5.jpg" />
       </div>
       <div class="grid-item">
         <img src="images/6.jpg" />
@@ -100,33 +76,12 @@ text-align:center;
       </div>
       <div class="grid-item">
         <img src="images/10.jpg" />
-</div>
+      </div>
       <div class="grid-item">
         <img src="images/11.jpg" />
       </div>
       <div class="grid-item">
-        <img src="images/13.jpg" />
-      </div>
-      <div class="grid-item">
-        <img src="images/5.jpg" />
-</div>
-      <div class="grid-item">
-        <img src="images/14.jpg" />
-</div>
-<div class="grid-item">
-        <img src="images/17.jpg" />
-</div>
-<div class="grid-item">
-        <img src="images/16.jpg" />
-</div>
-<div class="grid-item">
-        <img src="images/19.jpg" />
-</div>
-<div class="grid-item">
-        <img src="images/18.jpg" />
-      </div>
-<div class="grid-item">
-        <img src="images/20.jpg" />
+        <img src="images/12.jpg" />
       </div>
     </div>
 
